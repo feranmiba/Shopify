@@ -1,0 +1,42 @@
+.body {
+    background-color: rgb(57, 59, 59);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: snow;
+}
+.roller {
+    background-color: rgb(248, 234, 234);
+    padding-top: 60px;
+    padding-bottom: 30px;
+
+}
+footer {
+    padding: 50px;
+    background-color: rgb(30, 26, 26);
+}
+.sho {
+    border-bottom: 0.5mm solid gray;
+}
+.lin {
+    border-bottom: 0.5mm solid gray;
+}
+.line {
+    border-top: 0.6mm solid rgb(152, 137, 137);
+    margin-top: 2%;
+}
+/* rgb(43, 93, 43) */
+
+.in input::placeholder {
+    font-size: 15px;
+    color: black;
+  }
+  @media (max-width:480px) {
+    .mod {
+        margin-top: 5%;
+    }
+    .text {
+        margin-top: 5%;
+        margin-bottom: 3%
+    }
+    
+  }
